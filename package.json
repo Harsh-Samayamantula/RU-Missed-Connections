@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-cli": "^5.3.0",
+    "expo-status-bar": "^1.2.0"
+  }
+}
